@@ -9,7 +9,7 @@ export const Bio = {
     "I’m a hardworking and driven individual, always pushing myself to grow and improve. With a strong work ethic and a relentless focus on achieving my goals, I embrace challenges as opportunities to learn. I approach every task with dedication, perseverance, and a commitment to delivering my best work, no matter the obstacles.",
   github: "https://www.linkedin.com/in/brinaldovorfi02/",
   resume:
-    "https://drive.google.com/file/d/1JUC9QGIltk0T8R32JIMjRUcNufgmv7Hn/view?usp=sharing",
+    "https://drive.google.com/file/d/1np0c50R1h67Ny0sKu_ba-aN1VnWJAO_z/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/brinaldovorfi02/",
   insta: "https://www.instagram.com/_vorfi/profilecard/?igsh=MTJqNHE4dHQ0Y3h3bA==",
 };
